@@ -1,0 +1,11 @@
+Model Information:
+* title:	3D Cheeseburger Model
+* source:	https://sketchfab.com/3d-models/3d-cheeseburger-model-6d48be56bd39433d97184f69ce98c880
+* author:	Kunal.Kohli (https://sketchfab.com/Kunal.Kohli)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "3D Cheeseburger Model" (https://sketchfab.com/3d-models/3d-cheeseburger-model-6d48be56bd39433d97184f69ce98c880) by Kunal.Kohli (https://sketchfab.com/Kunal.Kohli) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
